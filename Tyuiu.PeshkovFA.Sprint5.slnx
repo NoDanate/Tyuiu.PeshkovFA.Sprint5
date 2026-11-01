@@ -1,5 +1,9 @@
 <Solution>
-  <Folder Name="/Task0/" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task0.V25.Lib/Tyuiu.PeshkovFA.Sprint5.Task0.V25.Lib.csproj" Id="fce68d69-002d-410a-8fc8-de16b8651661" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task0.V25.Test/Tyuiu.PeshkovFA.Sprint5.Task0.V25.Test.csproj" Id="884ff8c1-c298-4116-83b9-7ea48908a464" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task0.V25/Tyuiu.PeshkovFA.Sprint5.Task0.V25.csproj" Id="2143a5e3-937e-4653-8060-7a5b31a27f87" />
+  </Folder>
   <Folder Name="/Task1/" />
   <Folder Name="/Task2/" />
   <Folder Name="/Task3/" />
