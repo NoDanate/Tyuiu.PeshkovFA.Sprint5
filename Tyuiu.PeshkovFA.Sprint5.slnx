@@ -9,7 +9,11 @@
     <Project Path="Tyuiu.PeshkovFA.Sprint5.Task1.V18.Test/Tyuiu.PeshkovFA.Sprint5.Task1.V18.Test.csproj" Id="383f8c7f-73f2-4c6a-a494-b12d03c33cfb" />
     <Project Path="Tyuiu.PeshkovFA.Sprint5.Task1.V18/Tyuiu.PeshkovFA.Sprint5.Task1.V18.csproj" Id="12f79e58-cdf9-4ae5-a597-65a24c8b92df" />
   </Folder>
-  <Folder Name="/Task2/" />
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task2.V5.Lib/Tyuiu.PeshkovFA.Sprint5.Task2.V5.Lib.csproj" Id="bd524ccd-8a84-4046-ad4f-516cfdbf3c8e" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task2.V5.Test/Tyuiu.PeshkovFA.Sprint5.Task2.V5.Test.csproj" Id="a8141d28-1ed9-42b0-8196-5d708736559c" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task2.V5/Tyuiu.PeshkovFA.Sprint5.Task2.V5.csproj" Id="13c999c1-9096-4de9-87c3-5a9c3f29f5a2" />
+  </Folder>
   <Folder Name="/Task3/" />
   <Folder Name="/Task4/" />
   <Folder Name="/Task5/" />
