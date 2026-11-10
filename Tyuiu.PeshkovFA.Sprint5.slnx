@@ -29,6 +29,14 @@
     <Project Path="Tyuiu.PeshkovFA.Sprint5.Task5.V20.Test/Tyuiu.PeshkovFA.Sprint5.Task5.V20.Test.csproj" Id="e48de2f0-f23e-4612-b60c-566c82b78ec6" />
     <Project Path="Tyuiu.PeshkovFA.Sprint5.Task5.V20/Tyuiu.PeshkovFA.Sprint5.Task5.V20.csproj" Id="3f06a67b-576f-4a14-82e9-6e1937a231e9" />
   </Folder>
-  <Folder Name="/Task6/" />
-  <Folder Name="/Task7/" />
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task6.V18.Lib/Tyuiu.PeshkovFA.Sprint5.Task6.V18.Lib.csproj" Id="f37d51ee-c349-4861-be26-d5c1eabe04af" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task6.V18.Test/Tyuiu.PeshkovFA.Sprint5.Task6.V18.Test.csproj" Id="0b3fd3bd-4de2-4bb3-9810-edd354d09191" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task6.V18/Tyuiu.PeshkovFA.Sprint5.Task6.V18.csproj" Id="448896bd-5c5a-4a67-b31a-2d72d099d661" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task7.V9.Lib/Tyuiu.PeshkovFA.Sprint5.Task7.V9.Lib.csproj" Id="48a00bd7-4513-49fb-993c-7ec729ebbf72" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task7.V9.Test/Tyuiu.PeshkovFA.Sprint5.Task7.V9.Test.csproj" Id="2ff26c20-7ed6-4808-8a20-09b1daa3110f" />
+    <Project Path="Tyuiu.PeshkovFA.Sprint5.Task7.V9/Tyuiu.PeshkovFA.Sprint5.Task7.V9.csproj" Id="6767ace3-f380-4a75-a167-9ae026cc91ed" />
+  </Folder>
 </Solution>
