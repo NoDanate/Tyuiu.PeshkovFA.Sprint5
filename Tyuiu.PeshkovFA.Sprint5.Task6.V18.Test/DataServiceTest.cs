@@ -24,9 +24,8 @@ namespace Tyuiu.PeshkovFA.Sprint5.Task6.V18.Test
 
             string path = @"C:\Users\Fedor\source\repos\Tyuiu.PeshkovFA.Sprint5\Tyuiu.PeshkovFA.Sprint5.Task6.V18\bin\Debug\InPutDataFileTask6V18.txt";
 
-            var res = ds.LoadFromDataFile(path);
-
-            int wait = res;
+            int res = ds.LoadFromDataFile(path);
+            int wait = 2;
 
             Assert.AreEqual(wait, res);
         }
